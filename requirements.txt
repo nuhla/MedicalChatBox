@@ -4,3 +4,4 @@ pinecone-client
 langchain==0.0.225
 flask
 PyPDF2
+sentence_transformers
