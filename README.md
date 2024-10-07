@@ -15,7 +15,7 @@ conda activate mchb
 
 ```
 
-- install Requirements     
+- Install Requirements     
 ```bash
-pip instal requirements.txt 
+pip instal -r requirements.txt 
 ```
