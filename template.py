@@ -14,7 +14,7 @@ list_of_files=[
     "research/trails.ipynb",
     "app.py"
     "store_index.py",
-    "static",
+    "static/test.py",
     "templates/chat.html"
 ]
 
