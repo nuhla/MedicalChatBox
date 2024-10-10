@@ -23,4 +23,4 @@ pip instal -r requirements.txt
 
 ## Main Screen
 
- ![](MainScreen.png)
+![](imges/MainScreen.png)
