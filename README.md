@@ -19,3 +19,8 @@ conda activate mchb
 ```bash
 pip instal -r requirements.txt 
 ```
+
+
+## Main Screen
+
+ ![](MainScreen.png)
