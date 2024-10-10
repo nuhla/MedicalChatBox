@@ -20,12 +20,12 @@ conda activate mchb
 pip instal -r requirements.txt 
 ```
 
-### STEP 02- install the requirements
+- STEP 02- install the requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-### Create a .env file in the root directory and add your Pinecone credentials as follows:
+- Create a .env file in the root directory and add your Pinecone credentials as follows:
 ```bash
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -41,6 +41,20 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ## From the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
+```
+
+```bash
+# run the following command
+python store_index.py
+```
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+```bash
+open up localhost:8080
 ```
 ## Main Screen
 ![](imges/MainScreen.png)
